@@ -17,3 +17,4 @@ inp.on("close", () => {
     console.log(str.split('').join(','));   
 
 });
+console.log("hello world")
